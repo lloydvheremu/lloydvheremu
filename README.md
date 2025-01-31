@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/github/lloydvheremu/lloydvheremu.svg)](https://wakatime.com/badge/github/lloydvheremu/lloydvheremu)
 - 👋 Hi, I’m @lloydvheremu
 - 👀 I’m interested in Gaming, Artificial Intelligence, Web Devlopment etc almost everything in computer science
 - ✨ I'm know python, java, sql
